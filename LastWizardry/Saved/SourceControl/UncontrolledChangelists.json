@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UnrealProject/iKeeper_DevelopeSeminar/LastWizardary/LastWizardry/Content/Player/BP_TopDownCharacter.uasset",
+				"D:/UnrealProject/iKeeper_DevelopeSeminar/LastWizardary/LastWizardry/Content/Level/Test.umap",
+				"D:/UnrealProject/iKeeper_DevelopeSeminar/LastWizardary/LastWizardry/Content/Animation/idle.uasset",
+				"D:/UnrealProject/iKeeper_DevelopeSeminar/LastWizardary/LastWizardry/Content/Animation/sprint.uasset",
+				"D:/UnrealProject/iKeeper_DevelopeSeminar/LastWizardary/LastWizardry/Content/Animation/walk.uasset",
+				"D:/UnrealProject/iKeeper_DevelopeSeminar/LastWizardary/LastWizardry/Content/Animation/dead.uasset",
 				"D:/UnrealProject/VampireSurvival/Content/Level/Test.umap",
 				"D:/UnrealProject/VampireSurvival/Content/Animation/dead.uasset",
 				"D:/UnrealProject/VampireSurvival/Content/Animation/idle/AnimationSheet_Character_Hood_0.uasset",
